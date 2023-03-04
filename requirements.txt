@@ -1,0 +1,3 @@
+aiohttp==3.7.4.post0
+web3==5.17.0
+starknet-py==0.14.0a0

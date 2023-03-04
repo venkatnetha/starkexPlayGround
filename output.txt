@@ -1,0 +1,814 @@
+        {
+            "alt_txs": [],
+            "original_tx": {
+                "amount": "1",
+                "stark_key": "0x77a3b314db07c45076d11f62b6f9e748a39790441823307743cf00d6597ea43",
+                "token_id": "0x400f163c4d559288a2edbb10162eed11f4de87c56875b970fee1534da69cc80",
+                "type": "MintRequest",
+                "vault_id": 9223372036854775808
+            },
+            "tx_id": 2034,
+            "was_replaced": true
+        },
+        {
+            "alt_txs": [],
+            "original_tx": {
+                "amount": "1",
+                "stark_key": "0x77a3b314db07c45076d11f62b6f9e748a39790441823307743cf00d6597ea43",
+                "token_id": "0x400f163c4d559288a2edbb10162eed11f4de87c56875b970fee1534da69cc8f",
+                "type": "MintRequest",
+                "vault_id": 9223372036854775808
+            },
+            "tx_id": 2035,
+            "was_replaced": true
+        },
+        {
+            "alt_txs": [],
+            "original_tx": {
+                "amount": "1",
+                "stark_key": "0x77a3b314db07c45076d11f62b6f9e748a39790441823307743cf00d6597ea43",
+                "token_id": "0x400000000000000000000000000000000000000000000000000000000000000",
+                "type": "MintRequest",
+                "vault_id": 9223372036854775808
+            },
+            "tx_id": 2036,
+            "was_replaced": true
+        },
+        {
+            "alt_txs": [],
+            "original_tx": {
+                "amount": "1",
+                "stark_key": "0x77a3b314db07c45076d11f62b6f9e748a39790441823307743cf00d6597ea43",
+                "token_id": "0x400ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+                "type": "MintRequest",
+                "vault_id": 9223372036854775808
+            },
+            "tx_id": 2037,
+            "was_replaced": true
+        },
+        {
+            "alt_txs": null,
+            "original_tx": {
+                "amount": "7",
+                "stark_key": "0x2f116d013fb6ecae90765a876a5bfcf66cd6a6be1f85c9841629cd0bd080ed3",
+                "token_id": "0x1ccf76bfc5bfbb2f1e16a724105f9e8f235e3979d0b06053c8a88d7158b8161",
+                "type": "DepositRequest",
+                "vault_id": 1806341205
+            },
+            "tx_id": 2038,
+            "was_replaced": false
+        },
+        {
+            "alt_txs": null,
+            "original_tx": {
+                "amount": "14",
+                "stark_key": "0xf8c6635f9cfe85f46759dc2eebe71a45b765687e35dbe5e74e8bde347813ef",
+                "token_id": "0xa0107a220030eb34b9247f06cde3bbec2cc896e79b37f2435032dc5d38e78d",
+                "type": "DepositRequest",
+                "vault_id": 1112038970
+            },
+            "tx_id": 2039,
+            "was_replaced": false
+        },
+        {
+            "alt_txs": null,
+            "original_tx": {
+                "party_a_order": {
+                    "amount_buy": "4611686018427387902",
+                    "amount_sell": "2305843009213693951",
+                    "expiration_timestamp": 4194303,
+                    "nonce": 2046968324,
+                    "public_key": "0x2f116d013fb6ecae90765a876a5bfcf66cd6a6be1f85c9841629cd0bd080ed3",
+                    "signature": {
+                        "r": "0x512577b218a76bdb69c372181af1c6671d3dbf1995d8d23e29870d99c448eb0",
+                        "s": "0x35739fb1c6414874c51a1200ab90e4927f08603c6676cbed8dbea836513f50a"
+                    },
+                    "token_buy": "0xa0107a220030eb34b9247f06cde3bbec2cc896e79b37f2435032dc5d38e78d",
+                    "token_sell": "0x1ccf76bfc5bfbb2f1e16a724105f9e8f235e3979d0b06053c8a88d7158b8161",
+                    "type": "OrderL2Request",
+                    "vault_id_buy": 173879092,
+                    "vault_id_sell": 1806341205
+                },
+                "party_b_order": {
+                    "amount_buy": "2305843009213693951",
+                    "amount_sell": "4611686018427387902",
+                    "expiration_timestamp": 4194303,
+                    "nonce": 1537810351,
+                    "public_key": "0xf8c6635f9cfe85f46759dc2eebe71a45b765687e35dbe5e74e8bde347813ef",
+                    "signature": {
+                        "r": "0x52aab038a4940daf6c70ebd80833c8b1a5d9665b65311283b776a70d1fb2c9a",
+                        "s": "0x183410361e4cd6eeb8b633c459294fa3f65507560e9f2110387a844ae23f2b0"
+                    },
+                    "token_buy": "0x1ccf76bfc5bfbb2f1e16a724105f9e8f235e3979d0b06053c8a88d7158b8161",
+                    "token_sell": "0xa0107a220030eb34b9247f06cde3bbec2cc896e79b37f2435032dc5d38e78d",
+                    "type": "OrderL2Request",
+                    "vault_id_buy": 2087043557,
+                    "vault_id_sell": 1112038970
+                },
+                "settlement_info": {
+                    "party_a_sold": "7",
+                    "party_b_sold": "14"
+                },
+                "type": "SettlementRequest"
+            },
+            "tx_id": 2040,
+            "was_replaced": false
+        },
+        {
+            "alt_txs": null,
+            "original_tx": {
+                "amount": "14",
+                "stark_key": "0x2f116d013fb6ecae90765a876a5bfcf66cd6a6be1f85c9841629cd0bd080ed3",
+                "token_id": "0xa0107a220030eb34b9247f06cde3bbec2cc896e79b37f2435032dc5d38e78d",
+                "type": "WithdrawalRequest",
+                "vault_id": 173879092
+            },
+            "tx_id": 2041,
+            "was_replaced": false
+        },
+        {
+            "alt_txs": null,
+            "original_tx": {
+                "amount": "7",
+                "stark_key": "0xf8c6635f9cfe85f46759dc2eebe71a45b765687e35dbe5e74e8bde347813ef",
+                "token_id": "0x1ccf76bfc5bfbb2f1e16a724105f9e8f235e3979d0b06053c8a88d7158b8161",
+                "type": "WithdrawalRequest",
+                "vault_id": 2087043557
+            },
+            "tx_id": 2042,
+            "was_replaced": false
+        },
+        {
+            "alt_txs": null,
+            "original_tx": {
+                "amount": "5",
+                "stark_key": "0x2deb04eb807be0ec943e08d8f666521edb3f12833922fbbc7f93e1434ae810e",
+                "token_id": "0xa0107a220030eb34b9247f06cde3bbec2cc896e79b37f2435032dc5d38e78d",
+                "type": "DepositRequest",
+                "vault_id": 424185324
+            },
+            "tx_id": 2043,
+            "was_replaced": false
+        },
+        {
+            "alt_txs": null,
+            "original_tx": {
+                "amount": "10",
+                "stark_key": "0x2f116d013fb6ecae90765a876a5bfcf66cd6a6be1f85c9841629cd0bd080ed3",
+                "token_id": "0x1684540364b6a8bd392e54815ca5410e9a80dea82393c33f64ae2686d770882",
+                "type": "DepositRequest",
+                "vault_id": 1418186270
+            },
+            "tx_id": 2044,
+            "was_replaced": false
+        },
+        {
+            "alt_txs": null,
+            "original_tx": {
+                "party_a_order": {
+                    "amount_buy": "4611686018427387902",
+                    "amount_sell": "2305843009213693951",
+                    "expiration_timestamp": 4194303,
+                    "nonce": 1519522183,
+                    "public_key": "0x2deb04eb807be0ec943e08d8f666521edb3f12833922fbbc7f93e1434ae810e",
+                    "signature": {
+                        "r": "0x54ea6b7f420a2a9ee389ccc5f4360e980eb22f7a338194fbd5b6bc38d3af98f",
+                        "s": "0x5810dbccf8f78b7956e435fb0bd4f6d3b87df65312a57776e05589016063354"
+                    },
+                    "token_buy": "0x1684540364b6a8bd392e54815ca5410e9a80dea82393c33f64ae2686d770882",
+                    "token_sell": "0xa0107a220030eb34b9247f06cde3bbec2cc896e79b37f2435032dc5d38e78d",
+                    "type": "OrderL2Request",
+                    "vault_id_buy": 316721330,
+                    "vault_id_sell": 424185324
+                },
+                "party_b_order": {
+                    "amount_buy": "2305843009213693951",
+                    "amount_sell": "4611686018427387902",
+                    "expiration_timestamp": 4194303,
+                    "nonce": 1864753826,
+                    "public_key": "0x2f116d013fb6ecae90765a876a5bfcf66cd6a6be1f85c9841629cd0bd080ed3",
+                    "signature": {
+                        "r": "0x39d510a643db391b89367cec6ddf9a73e22ddb662d1954211b6bef917162d4b",
+                        "s": "0x6e617f873ef8b7dff52da10a2b5e80c4c7ded052b3da3b3a5e6b0ac086fc4fe"
+                    },
+                    "token_buy": "0xa0107a220030eb34b9247f06cde3bbec2cc896e79b37f2435032dc5d38e78d",
+                    "token_sell": "0x1684540364b6a8bd392e54815ca5410e9a80dea82393c33f64ae2686d770882",
+                    "type": "OrderL2Request",
+                    "vault_id_buy": 2027837527,
+                    "vault_id_sell": 1418186270
+                },
+                "settlement_info": {
+                    "party_a_sold": "5",
+                    "party_b_sold": "10"
+                },
+                "type": "SettlementRequest"
+            },
+            "tx_id": 2045,
+            "was_replaced": false
+        },
+        {
+            "alt_txs": null,
+            "original_tx": {
+                "amount": "10",
+                "stark_key": "0x2deb04eb807be0ec943e08d8f666521edb3f12833922fbbc7f93e1434ae810e",
+                "token_id": "0x1684540364b6a8bd392e54815ca5410e9a80dea82393c33f64ae2686d770882",
+                "type": "WithdrawalRequest",
+                "vault_id": 316721330
+            },
+            "tx_id": 2046,
+            "was_replaced": false
+        },
+        {
+            "alt_txs": null,
+            "original_tx": {
+                "amount": "5",
+                "stark_key": "0x2f116d013fb6ecae90765a876a5bfcf66cd6a6be1f85c9841629cd0bd080ed3",
+                "token_id": "0xa0107a220030eb34b9247f06cde3bbec2cc896e79b37f2435032dc5d38e78d",
+                "type": "WithdrawalRequest",
+                "vault_id": 2027837527
+            },
+            "tx_id": 2047,
+            "was_replaced": false
+        }
+    ]
+}root@fdce9971a8ca:/app# ls
+Dockerfile  __pycache__  player.py       player_gateway_utils.py  player_validator.py  txs.json
+README.md   abis         player_data.py  player_onchain_utils.py  requirements.txt
+root@fdce9971a8ca:/app# pip install starknet-py
+Collecting starknet-py
+  Downloading starknet_py-0.14.0a0.tar.gz (108 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 108.9/108.9 kB 8.5 MB/s eta 0:00:00
+  Installing build dependencies ... done
+  Getting requirements to build wheel ... done
+  Preparing metadata (pyproject.toml) ... done
+Collecting asgiref<4.0.0,>=3.4.1
+  Downloading asgiref-3.6.0-py3-none-any.whl (23 kB)
+Collecting marshmallow-dataclass<8.5.0
+  Downloading marshmallow_dataclass-8.4.2-py3-none-any.whl (15 kB)
+Collecting furo<2023.0.0,>=2022.12.7
+  Downloading furo-2022.12.7-py3-none-any.whl (328 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 328.7/328.7 kB 15.7 MB/s eta 0:00:00
+Collecting marshmallow-oneofschema<4.0.0,>=3.0.1
+  Downloading marshmallow_oneofschema-3.0.1-py2.py3-none-any.whl (5.8 kB)
+Collecting cairo-lang==0.10.3
+  Downloading cairo-lang-0.10.3.zip (1.1 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.1/1.1 MB 4.6 MB/s eta 0:00:00
+  Preparing metadata (setup.py) ... done
+Collecting crypto-cpp-py<2.0.0,>=1.0.4
+  Downloading crypto_cpp_py-1.2.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (158 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 158.9/158.9 kB 9.6 MB/s eta 0:00:00
+Collecting marshmallow<4.0.0,>=3.15.0
+  Downloading marshmallow-3.19.0-py3-none-any.whl (49 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 49.1/49.1 kB 5.7 MB/s eta 0:00:00
+Requirement already satisfied: typing-extensions<5.0.0,>=4.3.0 in /usr/local/lib/python3.9/dist-packages (from starknet-py) (4.5.0)
+Requirement already satisfied: aiohttp in /usr/local/lib/python3.9/dist-packages (from cairo-lang==0.10.3->starknet-py) (3.7.4.post0)
+Collecting cachetools
+  Downloading cachetools-5.3.0-py3-none-any.whl (9.3 kB)
+Collecting ecdsa
+  Downloading ecdsa-0.18.0-py2.py3-none-any.whl (142 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 142.9/142.9 kB 11.9 MB/s eta 0:00:00
+Requirement already satisfied: eth-hash[pycryptodome] in /usr/local/lib/python3.9/dist-packages (from cairo-lang==0.10.3->starknet-py) (0.5.1)
+Collecting fastecdsa
+  Downloading fastecdsa-2.3.0.tar.gz (49 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 49.5/49.5 kB 6.0 MB/s eta 0:00:00
+  Installing build dependencies ... done
+  Getting requirements to build wheel ... done
+  Installing backend dependencies ... done
+  Preparing metadata (pyproject.toml) ... done
+Collecting frozendict==1.2
+  Downloading frozendict-1.2.tar.gz (2.6 kB)
+  Preparing metadata (setup.py) ... done
+Collecting lark
+  Downloading lark-1.1.5-py3-none-any.whl (107 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 108.0/108.0 kB 9.7 MB/s eta 0:00:00
+Collecting marshmallow-enum
+  Downloading marshmallow_enum-1.5.1-py2.py3-none-any.whl (4.2 kB)
+Collecting mpmath
+  Downloading mpmath-1.2.1-py3-none-any.whl (532 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 532.6/532.6 kB 16.1 MB/s eta 0:00:00
+Collecting numpy
+  Downloading numpy-1.24.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (17.3 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 17.3/17.3 MB 15.8 MB/s eta 0:00:00
+Collecting pipdeptree
+  Downloading pipdeptree-2.5.1-py3-none-any.whl (17 kB)
+Collecting prometheus-client
+  Downloading prometheus_client-0.16.0-py3-none-any.whl (122 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 122.5/122.5 kB 10.5 MB/s eta 0:00:00
+Collecting pytest
+  Downloading pytest-7.2.2-py3-none-any.whl (317 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 317.2/317.2 kB 16.2 MB/s eta 0:00:00
+Collecting pytest-asyncio
+  Downloading pytest_asyncio-0.20.3-py3-none-any.whl (12 kB)
+Collecting PyYAML
+  Downloading PyYAML-6.0-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl (661 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 661.8/661.8 kB 15.4 MB/s eta 0:00:00
+Collecting sympy
+  Downloading sympy-1.11.1-py3-none-any.whl (6.5 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 6.5/6.5 MB 16.1 MB/s eta 0:00:00
+Collecting typeguard
+  Downloading typeguard-2.13.3-py3-none-any.whl (17 kB)
+Requirement already satisfied: Web3 in /usr/local/lib/python3.9/dist-packages (from cairo-lang==0.10.3->starknet-py) (5.17.0)
+Collecting beautifulsoup4
+  Downloading beautifulsoup4-4.11.2-py3-none-any.whl (129 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 129.4/129.4 kB 11.2 MB/s eta 0:00:00
+Collecting sphinx-basic-ng
+  Downloading sphinx_basic_ng-1.0.0b1-py3-none-any.whl (22 kB)
+Collecting pygments>=2.7
+  Downloading Pygments-2.14.0-py3-none-any.whl (1.1 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.1/1.1 MB 15.6 MB/s eta 0:00:00
+Collecting sphinx<7.0,>=5.0
+  Downloading sphinx-6.1.3-py3-none-any.whl (3.0 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 3.0/3.0 MB 16.3 MB/s eta 0:00:00
+Collecting packaging>=17.0
+  Using cached packaging-23.0-py3-none-any.whl (42 kB)
+Collecting typing-inspect>=0.7.1
+  Downloading typing_inspect-0.8.0-py3-none-any.whl (8.7 kB)
+Collecting docutils<0.20,>=0.18
+  Downloading docutils-0.19-py3-none-any.whl (570 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 570.5/570.5 kB 18.0 MB/s eta 0:00:00
+Requirement already satisfied: requests>=2.25.0 in /usr/local/lib/python3.9/dist-packages (from sphinx<7.0,>=5.0->furo<2023.0.0,>=2022.12.7->starknet-py) (2.28.2)
+Collecting imagesize>=1.3
+  Downloading imagesize-1.4.1-py2.py3-none-any.whl (8.8 kB)
+Collecting babel>=2.9
+  Downloading Babel-2.12.1-py3-none-any.whl (10.1 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 10.1/10.1 MB 16.7 MB/s eta 0:00:00
+Collecting sphinxcontrib-serializinghtml>=1.1.5
+  Downloading sphinxcontrib_serializinghtml-1.1.5-py2.py3-none-any.whl (94 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 94.0/94.0 kB 9.7 MB/s eta 0:00:00
+Collecting sphinxcontrib-devhelp
+  Downloading sphinxcontrib_devhelp-1.0.2-py2.py3-none-any.whl (84 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 84.7/84.7 kB 8.6 MB/s eta 0:00:00
+Collecting sphinxcontrib-jsmath
+  Downloading sphinxcontrib_jsmath-1.0.1-py2.py3-none-any.whl (5.1 kB)
+Collecting alabaster<0.8,>=0.7
+  Downloading alabaster-0.7.13-py3-none-any.whl (13 kB)
+Collecting importlib-metadata>=4.8
+  Downloading importlib_metadata-6.0.0-py3-none-any.whl (21 kB)
+Collecting snowballstemmer>=2.0
+  Downloading snowballstemmer-2.2.0-py2.py3-none-any.whl (93 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 93.0/93.0 kB 9.0 MB/s eta 0:00:00
+Collecting sphinxcontrib-qthelp
+  Downloading sphinxcontrib_qthelp-1.0.3-py2.py3-none-any.whl (90 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 90.6/90.6 kB 9.2 MB/s eta 0:00:00
+Collecting Jinja2>=3.0
+  Downloading Jinja2-3.1.2-py3-none-any.whl (133 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 133.1/133.1 kB 10.9 MB/s eta 0:00:00
+Collecting sphinxcontrib-htmlhelp>=2.0.0
+  Downloading sphinxcontrib_htmlhelp-2.0.1-py3-none-any.whl (99 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 99.8/99.8 kB 9.7 MB/s eta 0:00:00
+Collecting sphinxcontrib-applehelp
+  Downloading sphinxcontrib_applehelp-1.0.4-py3-none-any.whl (120 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 120.6/120.6 kB 11.1 MB/s eta 0:00:00
+Collecting mypy-extensions>=0.3.0
+  Downloading mypy_extensions-1.0.0-py3-none-any.whl (4.7 kB)
+Requirement already satisfied: multidict<7.0,>=4.5 in /usr/local/lib/python3.9/dist-packages (from aiohttp->cairo-lang==0.10.3->starknet-py) (6.0.4)
+Requirement already satisfied: attrs>=17.3.0 in /usr/local/lib/python3.9/dist-packages (from aiohttp->cairo-lang==0.10.3->starknet-py) (22.2.0)
+Requirement already satisfied: chardet<5.0,>=2.0 in /usr/local/lib/python3.9/dist-packages (from aiohttp->cairo-lang==0.10.3->starknet-py) (4.0.0)
+Requirement already satisfied: yarl<2.0,>=1.0 in /usr/local/lib/python3.9/dist-packages (from aiohttp->cairo-lang==0.10.3->starknet-py) (1.8.2)
+Requirement already satisfied: async-timeout<4.0,>=3.0 in /usr/local/lib/python3.9/dist-packages (from aiohttp->cairo-lang==0.10.3->starknet-py) (3.0.1)
+Collecting soupsieve>1.2
+  Downloading soupsieve-2.4-py3-none-any.whl (37 kB)
+Requirement already satisfied: six>=1.9.0 in /usr/lib/python3/dist-packages (from ecdsa->cairo-lang==0.10.3->starknet-py) (1.14.0)
+Requirement already satisfied: pycryptodome<4,>=3.6.6 in /usr/local/lib/python3.9/dist-packages (from eth-hash[pycryptodome]->cairo-lang==0.10.3->starknet-py) (3.17)
+Collecting pluggy<2.0,>=0.12
+  Downloading pluggy-1.0.0-py2.py3-none-any.whl (13 kB)
+Collecting tomli>=1.0.0
+  Using cached tomli-2.0.1-py3-none-any.whl (12 kB)
+Collecting iniconfig
+  Downloading iniconfig-2.0.0-py3-none-any.whl (5.9 kB)
+Collecting exceptiongroup>=1.0.0rc8
+  Downloading exceptiongroup-1.1.0-py3-none-any.whl (14 kB)
+Requirement already satisfied: eth-utils<2.0.0,>=1.9.5 in /usr/local/lib/python3.9/dist-packages (from Web3->cairo-lang==0.10.3->starknet-py) (1.9.5)
+Requirement already satisfied: eth-abi<3.0.0,>=2.0.0b6 in /usr/local/lib/python3.9/dist-packages (from Web3->cairo-lang==0.10.3->starknet-py) (2.2.0)
+Requirement already satisfied: lru-dict<2.0.0,>=1.1.6 in /usr/local/lib/python3.9/dist-packages (from Web3->cairo-lang==0.10.3->starknet-py) (1.1.8)
+Requirement already satisfied: jsonschema<4.0.0,>=3.2.0 in /usr/local/lib/python3.9/dist-packages (from Web3->cairo-lang==0.10.3->starknet-py) (3.2.0)
+Requirement already satisfied: eth-typing<3.0.0,>=2.0.0 in /usr/local/lib/python3.9/dist-packages (from Web3->cairo-lang==0.10.3->starknet-py) (2.3.0)
+Requirement already satisfied: hexbytes<1.0.0,>=0.1.0 in /usr/local/lib/python3.9/dist-packages (from Web3->cairo-lang==0.10.3->starknet-py) (0.3.0)
+Requirement already satisfied: ipfshttpclient==0.7.0a1 in /usr/local/lib/python3.9/dist-packages (from Web3->cairo-lang==0.10.3->starknet-py) (0.7.0a1)
+Requirement already satisfied: protobuf<4,>=3.10.0 in /usr/local/lib/python3.9/dist-packages (from Web3->cairo-lang==0.10.3->starknet-py) (3.20.3)
+Requirement already satisfied: websockets<9.0.0,>=8.1.0 in /usr/local/lib/python3.9/dist-packages (from Web3->cairo-lang==0.10.3->starknet-py) (8.1)
+Requirement already satisfied: eth-account<0.6.0,>=0.5.3 in /usr/local/lib/python3.9/dist-packages (from Web3->cairo-lang==0.10.3->starknet-py) (0.5.9)
+Requirement already satisfied: multiaddr>=0.0.7 in /usr/local/lib/python3.9/dist-packages (from ipfshttpclient==0.7.0a1->Web3->cairo-lang==0.10.3->starknet-py) (0.0.9)
+Requirement already satisfied: parsimonious<0.9.0,>=0.8.0 in /usr/local/lib/python3.9/dist-packages (from eth-abi<3.0.0,>=2.0.0b6->Web3->cairo-lang==0.10.3->starknet-py) (0.8.1)
+Requirement already satisfied: eth-keyfile<0.6.0,>=0.5.0 in /usr/local/lib/python3.9/dist-packages (from eth-account<0.6.0,>=0.5.3->Web3->cairo-lang==0.10.3->starknet-py) (0.5.1)
+Requirement already satisfied: bitarray<3,>=1.2.1 in /usr/local/lib/python3.9/dist-packages (from eth-account<0.6.0,>=0.5.3->Web3->cairo-lang==0.10.3->starknet-py) (2.7.3)
+Requirement already satisfied: eth-rlp<2,>=0.1.2 in /usr/local/lib/python3.9/dist-packages (from eth-account<0.6.0,>=0.5.3->Web3->cairo-lang==0.10.3->starknet-py) (0.2.1)
+Requirement already satisfied: rlp<3,>=1.0.0 in /usr/local/lib/python3.9/dist-packages (from eth-account<0.6.0,>=0.5.3->Web3->cairo-lang==0.10.3->starknet-py) (2.0.1)
+Requirement already satisfied: eth-keys<0.4.0,>=0.3.4 in /usr/local/lib/python3.9/dist-packages (from eth-account<0.6.0,>=0.5.3->Web3->cairo-lang==0.10.3->starknet-py) (0.3.4)
+Requirement already satisfied: cytoolz<1.0.0,>=0.10.1 in /usr/local/lib/python3.9/dist-packages (from eth-utils<2.0.0,>=1.9.5->Web3->cairo-lang==0.10.3->starknet-py) (0.12.1)
+Requirement already satisfied: zipp>=0.5 in /usr/lib/python3/dist-packages (from importlib-metadata>=4.8->sphinx<7.0,>=5.0->furo<2023.0.0,>=2022.12.7->starknet-py) (1.0.0)
+Collecting MarkupSafe>=2.0
+  Downloading MarkupSafe-2.1.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (25 kB)
+Requirement already satisfied: setuptools in /usr/local/lib/python3.9/dist-packages (from jsonschema<4.0.0,>=3.2.0->Web3->cairo-lang==0.10.3->starknet-py) (62.1.0)
+Requirement already satisfied: pyrsistent>=0.14.0 in /usr/local/lib/python3.9/dist-packages (from jsonschema<4.0.0,>=3.2.0->Web3->cairo-lang==0.10.3->starknet-py) (0.19.3)
+Requirement already satisfied: idna<4,>=2.5 in /usr/local/lib/python3.9/dist-packages (from requests>=2.25.0->sphinx<7.0,>=5.0->furo<2023.0.0,>=2022.12.7->starknet-py) (3.4)
+Requirement already satisfied: certifi>=2017.4.17 in /usr/local/lib/python3.9/dist-packages (from requests>=2.25.0->sphinx<7.0,>=5.0->furo<2023.0.0,>=2022.12.7->starknet-py) (2022.12.7)
+Requirement already satisfied: charset-normalizer<4,>=2 in /usr/local/lib/python3.9/dist-packages (from requests>=2.25.0->sphinx<7.0,>=5.0->furo<2023.0.0,>=2022.12.7->starknet-py) (3.0.1)
+Requirement already satisfied: urllib3<1.27,>=1.21.1 in /usr/local/lib/python3.9/dist-packages (from requests>=2.25.0->sphinx<7.0,>=5.0->furo<2023.0.0,>=2022.12.7->starknet-py) (1.26.14)
+Requirement already satisfied: toolz>=0.8.0 in /usr/local/lib/python3.9/dist-packages (from cytoolz<1.0.0,>=0.10.1->eth-utils<2.0.0,>=1.9.5->Web3->cairo-lang==0.10.3->starknet-py) (0.12.0)
+Requirement already satisfied: netaddr in /usr/local/lib/python3.9/dist-packages (from multiaddr>=0.0.7->ipfshttpclient==0.7.0a1->Web3->cairo-lang==0.10.3->starknet-py) (0.8.0)
+Requirement already satisfied: varint in /usr/local/lib/python3.9/dist-packages (from multiaddr>=0.0.7->ipfshttpclient==0.7.0a1->Web3->cairo-lang==0.10.3->starknet-py) (1.0.2)
+Requirement already satisfied: base58 in /usr/local/lib/python3.9/dist-packages (from multiaddr>=0.0.7->ipfshttpclient==0.7.0a1->Web3->cairo-lang==0.10.3->starknet-py) (2.1.1)
+Building wheels for collected packages: starknet-py, cairo-lang, frozendict, fastecdsa
+  Building wheel for starknet-py (pyproject.toml) ... done
+  Created wheel for starknet-py: filename=starknet_py-0.14.0a0-py3-none-any.whl size=146347 sha256=a11453e13d59cb1d16ecaa3cced69d6376b84706eefbbad850bb034ca6e24f92
+  Stored in directory: /root/.cache/pip/wheels/32/fc/e8/716ad21ebdbb064c2d0271ca6a291cd1707f3e8e796bdc72b2
+  Building wheel for cairo-lang (setup.py) ... done
+  Created wheel for cairo-lang: filename=cairo_lang-0.10.3-py3-none-any.whl size=1047597 sha256=171c8e0311fb9cd1c856a7dd6eebd4a7a3233571dd791a6bd983143229391c26
+  Stored in directory: /root/.cache/pip/wheels/59/1f/2b/3f100576718acc05f85142402f4349a323a4877b760b0985d6
+  Building wheel for frozendict (setup.py) ... done
+  Created wheel for frozendict: filename=frozendict-1.2-py3-none-any.whl size=3166 sha256=75418eacb118852ed1867553ff2a595246b1e1a8b136894d8c58725143920411
+  Stored in directory: /root/.cache/pip/wheels/5b/fa/ab/0a80360debb57b95f092356ee3a075bbbffc631b9813136599
+  Building wheel for fastecdsa (pyproject.toml) ... error
+  error: subprocess-exited-with-error
+
+  × Building wheel for fastecdsa (pyproject.toml) did not run successfully.
+  │ exit code: 1
+  ╰─> [59 lines of output]
+      /tmp/pip-build-env-muidg6ti/overlay/lib/python3.9/site-packages/setuptools/config/pyprojecttoml.py:108: _BetaConfiguration: Support for `[tool.setuptools]` in `pyproject.toml` is still *beta*.
+        warnings.warn(msg, _BetaConfiguration)
+      running bdist_wheel
+      running build
+      running build_py
+      creating build
+      creating build/lib.linux-x86_64-cpython-39
+      creating build/lib.linux-x86_64-cpython-39/fastecdsa
+      copying fastecdsa/benchmark.py -> build/lib.linux-x86_64-cpython-39/fastecdsa
+      copying fastecdsa/ecdsa.py -> build/lib.linux-x86_64-cpython-39/fastecdsa
+      copying fastecdsa/point.py -> build/lib.linux-x86_64-cpython-39/fastecdsa
+      copying fastecdsa/keys.py -> build/lib.linux-x86_64-cpython-39/fastecdsa
+      copying fastecdsa/__init__.py -> build/lib.linux-x86_64-cpython-39/fastecdsa
+      copying fastecdsa/util.py -> build/lib.linux-x86_64-cpython-39/fastecdsa
+      copying fastecdsa/curve.py -> build/lib.linux-x86_64-cpython-39/fastecdsa
+      creating build/lib.linux-x86_64-cpython-39/fastecdsa/encoding
+      copying fastecdsa/encoding/asn1.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/encoding
+      copying fastecdsa/encoding/der.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/encoding
+      copying fastecdsa/encoding/__init__.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/encoding
+      copying fastecdsa/encoding/pem.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/encoding
+      copying fastecdsa/encoding/util.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/encoding
+      copying fastecdsa/encoding/sec1.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/encoding
+      creating build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      copying fastecdsa/tests/test_rfc6979_ecdsa.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      copying fastecdsa/tests/test_whycheproof_vectors.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      copying fastecdsa/tests/test_brainpool_ecdh.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      copying fastecdsa/tests/test_keygen.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      copying fastecdsa/tests/test_prime_field_curve_math.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      copying fastecdsa/tests/__init__.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      copying fastecdsa/tests/test_whitespace_parsing.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      copying fastecdsa/tests/test_nonce_generation.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      copying fastecdsa/tests/test_p256_ecdsa.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      copying fastecdsa/tests/test_key_export_import.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      copying fastecdsa/tests/test_prehashed.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      copying fastecdsa/tests/test_key_recovery.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      copying fastecdsa/tests/test_point.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      creating build/lib.linux-x86_64-cpython-39/fastecdsa/tests/encoding
+      copying fastecdsa/tests/encoding/__init__.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests/encoding
+      copying fastecdsa/tests/encoding/test_sec1.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests/encoding
+      copying fastecdsa/tests/encoding/test_der.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests/encoding
+      running egg_info
+      writing fastecdsa.egg-info/PKG-INFO
+      writing dependency_links to fastecdsa.egg-info/dependency_links.txt
+      writing top-level names to fastecdsa.egg-info/top_level.txt
+      reading manifest file 'fastecdsa.egg-info/SOURCES.txt'
+      reading manifest template 'MANIFEST.in'
+      adding license file 'LICENSE'
+      writing manifest file 'fastecdsa.egg-info/SOURCES.txt'
+      running build_ext
+      building 'fastecdsa.curvemath' extension
+      creating build/temp.linux-x86_64-cpython-39
+      creating build/temp.linux-x86_64-cpython-39/src
+      x86_64-linux-gnu-gcc -pthread -Wno-unused-result -Wsign-compare -DNDEBUG -g -fwrapv -O2 -Wall -g -fstack-protector-strong -Wformat -Werror=format-security -g -fwrapv -O2 -fPIC -Isrc/ -I/usr/include/python3.9 -c src/curve.c -o build/temp.linux-x86_64-cpython-39/src/curve.o -O2
+      In file included from src/curve.c:1:
+      src/curve.h:4:10: fatal error: gmp.h: No such file or directory
+          4 | #include "gmp.h"
+            |          ^~~~~~~
+      compilation terminated.
+      error: command '/usr/bin/x86_64-linux-gnu-gcc' failed with exit code 1
+      [end of output]
+
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+  ERROR: Failed building wheel for fastecdsa
+Successfully built starknet-py cairo-lang frozendict
+Failed to build fastecdsa
+ERROR: Could not build wheels for fastecdsa, which is required to install pyproject.toml-based projects
+root@fdce9971a8ca:/app# CFLAGS=-I`brew --prefix gmp`/include LDFLAGS=-L`brew --prefix gmp`/lib pip install ecdsa fastecdsa sympy
+bash: brew: command not found
+bash: brew: command not found
+Collecting ecdsa
+  Using cached ecdsa-0.18.0-py2.py3-none-any.whl (142 kB)
+Collecting fastecdsa
+  Using cached fastecdsa-2.3.0.tar.gz (49 kB)
+  Installing build dependencies ... done
+  Getting requirements to build wheel ... done
+  Installing backend dependencies ... done
+  Preparing metadata (pyproject.toml) ... done
+Collecting sympy
+  Using cached sympy-1.11.1-py3-none-any.whl (6.5 MB)
+Requirement already satisfied: six>=1.9.0 in /usr/lib/python3/dist-packages (from ecdsa) (1.14.0)
+Collecting mpmath>=0.19
+  Using cached mpmath-1.2.1-py3-none-any.whl (532 kB)
+Building wheels for collected packages: fastecdsa
+  Building wheel for fastecdsa (pyproject.toml) ... error
+  error: subprocess-exited-with-error
+
+  × Building wheel for fastecdsa (pyproject.toml) did not run successfully.
+  │ exit code: 1
+  ╰─> [59 lines of output]
+      /tmp/pip-build-env-w2gg6izy/overlay/lib/python3.9/site-packages/setuptools/config/pyprojecttoml.py:108: _BetaConfiguration: Support for `[tool.setuptools]` in `pyproject.toml` is still *beta*.
+        warnings.warn(msg, _BetaConfiguration)
+      running bdist_wheel
+      running build
+      running build_py
+      creating build
+      creating build/lib.linux-x86_64-cpython-39
+      creating build/lib.linux-x86_64-cpython-39/fastecdsa
+      copying fastecdsa/benchmark.py -> build/lib.linux-x86_64-cpython-39/fastecdsa
+      copying fastecdsa/ecdsa.py -> build/lib.linux-x86_64-cpython-39/fastecdsa
+      copying fastecdsa/point.py -> build/lib.linux-x86_64-cpython-39/fastecdsa
+      copying fastecdsa/keys.py -> build/lib.linux-x86_64-cpython-39/fastecdsa
+      copying fastecdsa/__init__.py -> build/lib.linux-x86_64-cpython-39/fastecdsa
+      copying fastecdsa/util.py -> build/lib.linux-x86_64-cpython-39/fastecdsa
+      copying fastecdsa/curve.py -> build/lib.linux-x86_64-cpython-39/fastecdsa
+      creating build/lib.linux-x86_64-cpython-39/fastecdsa/encoding
+      copying fastecdsa/encoding/asn1.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/encoding
+      copying fastecdsa/encoding/der.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/encoding
+      copying fastecdsa/encoding/__init__.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/encoding
+      copying fastecdsa/encoding/pem.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/encoding
+      copying fastecdsa/encoding/util.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/encoding
+      copying fastecdsa/encoding/sec1.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/encoding
+      creating build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      copying fastecdsa/tests/test_rfc6979_ecdsa.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      copying fastecdsa/tests/test_whycheproof_vectors.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      copying fastecdsa/tests/test_brainpool_ecdh.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      copying fastecdsa/tests/test_keygen.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      copying fastecdsa/tests/test_prime_field_curve_math.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      copying fastecdsa/tests/__init__.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      copying fastecdsa/tests/test_whitespace_parsing.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      copying fastecdsa/tests/test_nonce_generation.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      copying fastecdsa/tests/test_p256_ecdsa.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      copying fastecdsa/tests/test_key_export_import.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      copying fastecdsa/tests/test_prehashed.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      copying fastecdsa/tests/test_key_recovery.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      copying fastecdsa/tests/test_point.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      creating build/lib.linux-x86_64-cpython-39/fastecdsa/tests/encoding
+      copying fastecdsa/tests/encoding/__init__.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests/encoding
+      copying fastecdsa/tests/encoding/test_sec1.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests/encoding
+      copying fastecdsa/tests/encoding/test_der.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests/encoding
+      running egg_info
+      writing fastecdsa.egg-info/PKG-INFO
+      writing dependency_links to fastecdsa.egg-info/dependency_links.txt
+      writing top-level names to fastecdsa.egg-info/top_level.txt
+      reading manifest file 'fastecdsa.egg-info/SOURCES.txt'
+      reading manifest template 'MANIFEST.in'
+      adding license file 'LICENSE'
+      writing manifest file 'fastecdsa.egg-info/SOURCES.txt'
+      running build_ext
+      building 'fastecdsa.curvemath' extension
+      creating build/temp.linux-x86_64-cpython-39
+      creating build/temp.linux-x86_64-cpython-39/src
+      x86_64-linux-gnu-gcc -pthread -Wno-unused-result -Wsign-compare -DNDEBUG -g -fwrapv -O2 -Wall -g -fstack-protector-strong -Wformat -Werror=format-security -g -fwrapv -O2 -I/include -fPIC -Isrc/ -I/usr/include/python3.9 -c src/curve.c -o build/temp.linux-x86_64-cpython-39/src/curve.o -O2
+      In file included from src/curve.c:1:
+      src/curve.h:4:10: fatal error: gmp.h: No such file or directory
+          4 | #include "gmp.h"
+            |          ^~~~~~~
+      compilation terminated.
+      error: command '/usr/bin/x86_64-linux-gnu-gcc' failed with exit code 1
+      [end of output]
+
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+  ERROR: Failed building wheel for fastecdsa
+Failed to build fastecdsa
+ERROR: Could not build wheels for fastecdsa, which is required to install pyproject.toml-based projects
+root@fdce9971a8ca:/app# python3 -m pip install --no-binary :all: --no-use-pep517 fastecdsa
+Collecting fastecdsa
+  Using cached fastecdsa-2.3.0.tar.gz (49 kB)
+ERROR: Disabling PEP 517 processing is invalid: project specifies a build backend of setuptools.build_meta in pyproject.toml
+root@fdce9971a8ca:/app# ls
+Dockerfile  __pycache__  player.py       player_gateway_utils.py  player_validator.py  txs.json
+README.md   abis         player_data.py  player_onchain_utils.py  requirements.txt
+root@fdce9971a8ca:/app# python3 -m pip install --no-binary :all: --no-use-pep517 fastecdsa
+Collecting fastecdsa
+  Using cached fastecdsa-2.3.0.tar.gz (49 kB)
+ERROR: Disabling PEP 517 processing is invalid: project specifies a build backend of setuptools.build_meta in pyproject.toml
+root@fdce9971a8ca:/app#
+Display all 767 possibilities? (y or n)
+root@fdce9971a8ca:/app# CFLAGS=-I/opt/homebrew/opt/gmp/include LDFLAGS=-L/opt/homebrew/opt/gmp/lib pip install fastecdsa
+Collecting fastecdsa
+  Using cached fastecdsa-2.3.0.tar.gz (49 kB)
+  Installing build dependencies ... done
+  Getting requirements to build wheel ... done
+  Installing backend dependencies ... done
+  Preparing metadata (pyproject.toml) ... done
+Building wheels for collected packages: fastecdsa
+  Building wheel for fastecdsa (pyproject.toml) ... error
+  error: subprocess-exited-with-error
+
+  × Building wheel for fastecdsa (pyproject.toml) did not run successfully.
+  │ exit code: 1
+  ╰─> [59 lines of output]
+      /tmp/pip-build-env-_ln6j5mo/overlay/lib/python3.9/site-packages/setuptools/config/pyprojecttoml.py:108: _BetaConfiguration: Support for `[tool.setuptools]` in `pyproject.toml` is still *beta*.
+        warnings.warn(msg, _BetaConfiguration)
+      running bdist_wheel
+      running build
+      running build_py
+      creating build
+      creating build/lib.linux-x86_64-cpython-39
+      creating build/lib.linux-x86_64-cpython-39/fastecdsa
+      copying fastecdsa/benchmark.py -> build/lib.linux-x86_64-cpython-39/fastecdsa
+      copying fastecdsa/ecdsa.py -> build/lib.linux-x86_64-cpython-39/fastecdsa
+      copying fastecdsa/point.py -> build/lib.linux-x86_64-cpython-39/fastecdsa
+      copying fastecdsa/keys.py -> build/lib.linux-x86_64-cpython-39/fastecdsa
+      copying fastecdsa/__init__.py -> build/lib.linux-x86_64-cpython-39/fastecdsa
+      copying fastecdsa/util.py -> build/lib.linux-x86_64-cpython-39/fastecdsa
+      copying fastecdsa/curve.py -> build/lib.linux-x86_64-cpython-39/fastecdsa
+      creating build/lib.linux-x86_64-cpython-39/fastecdsa/encoding
+      copying fastecdsa/encoding/asn1.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/encoding
+      copying fastecdsa/encoding/der.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/encoding
+      copying fastecdsa/encoding/__init__.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/encoding
+      copying fastecdsa/encoding/pem.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/encoding
+      copying fastecdsa/encoding/util.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/encoding
+      copying fastecdsa/encoding/sec1.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/encoding
+      creating build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      copying fastecdsa/tests/test_rfc6979_ecdsa.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      copying fastecdsa/tests/test_whycheproof_vectors.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      copying fastecdsa/tests/test_brainpool_ecdh.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      copying fastecdsa/tests/test_keygen.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      copying fastecdsa/tests/test_prime_field_curve_math.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      copying fastecdsa/tests/__init__.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      copying fastecdsa/tests/test_whitespace_parsing.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      copying fastecdsa/tests/test_nonce_generation.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      copying fastecdsa/tests/test_p256_ecdsa.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      copying fastecdsa/tests/test_key_export_import.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      copying fastecdsa/tests/test_prehashed.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      copying fastecdsa/tests/test_key_recovery.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      copying fastecdsa/tests/test_point.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests
+      creating build/lib.linux-x86_64-cpython-39/fastecdsa/tests/encoding
+      copying fastecdsa/tests/encoding/__init__.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests/encoding
+      copying fastecdsa/tests/encoding/test_sec1.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests/encoding
+      copying fastecdsa/tests/encoding/test_der.py -> build/lib.linux-x86_64-cpython-39/fastecdsa/tests/encoding
+      running egg_info
+      writing fastecdsa.egg-info/PKG-INFO
+      writing dependency_links to fastecdsa.egg-info/dependency_links.txt
+      writing top-level names to fastecdsa.egg-info/top_level.txt
+      reading manifest file 'fastecdsa.egg-info/SOURCES.txt'
+      reading manifest template 'MANIFEST.in'
+      adding license file 'LICENSE'
+      writing manifest file 'fastecdsa.egg-info/SOURCES.txt'
+      running build_ext
+      building 'fastecdsa.curvemath' extension
+      creating build/temp.linux-x86_64-cpython-39
+      creating build/temp.linux-x86_64-cpython-39/src
+      x86_64-linux-gnu-gcc -pthread -Wno-unused-result -Wsign-compare -DNDEBUG -g -fwrapv -O2 -Wall -g -fstack-protector-strong -Wformat -Werror=format-security -g -fwrapv -O2 -I/opt/homebrew/opt/gmp/include -fPIC -Isrc/ -I/usr/include/python3.9 -c src/curve.c -o build/temp.linux-x86_64-cpython-39/src/curve.o -O2
+      In file included from src/curve.c:1:
+      src/curve.h:4:10: fatal error: gmp.h: No such file or directory
+          4 | #include "gmp.h"
+            |          ^~~~~~~
+      compilation terminated.
+      error: command '/usr/bin/x86_64-linux-gnu-gcc' failed with exit code 1
+      [end of output]
+
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+  ERROR: Failed building wheel for fastecdsa
+Failed to build fastecdsa
+ERROR: Could not build wheels for fastecdsa, which is required to install pyproject.toml-based projects
+root@fdce9971a8ca:/app#
+root@fdce9971a8ca:/app# curl https://perpetual-playground-v2.starkex.co/get_first_unused_tx_id; echo
+167
+root@fdce9971a8ca:/app# curl -d '{"tx_id":167,"tx":{"position_id":"3","public_key":"0x7D66CCC1D55BFADDC20BEDAF6213752E46B1665DD6C894910736BEDD585C6B7","amount":"241535140800","type":"DEPOSIT"}}' https://perpetual-playground-v2.starkex.co/add_transaction; echo
+{"code": "StarkErrorCode.SCHEMA_VALIDATION_ERROR", "message": "Schema validation failed", "problems": {"tx": {"public_key": ["Expected hex string, got: \"0x7D66CCC1D55BFADDC20BEDAF6213752E46B1665DD6C894910736BEDD585C6B7\"."]}}}
+root@fdce9971a8ca:/app# curl -d '{"tx_id":167,"tx":{"position_id":"3","public_key":0x7D66CCC1D55BFADDC20BEDAF6213752E46B1665DD6C894910736BEDD585C6B7,"amount":"241535140800","type":"DEPOSIT"}}' https://perpetual-playground-v2.starkex.co/add_transaction; echo
+{"code": "StarkErrorCode.SCHEMA_VALIDATION_ERROR", "message": "Schema validation failed", "problems": "Expecting ',' delimiter: line 1 column 52 (char 51)"}
+root@fdce9971a8ca:/app#
+root@fdce9971a8ca:/app# curl -d '{"tx_id”:167”tx":{"position_id”:”3”,”public_key”:0x7D66CCC1D55BFADDC20BEDAF6213752
+46B1665DD6C894910736BEDD585C6B7,”amount":"241535140800","type":"DEPOSIT"}}' https://perpetual-playground-v2.starkex.co/add_tran
+action; echo
+{"code": "StarkErrorCode.SCHEMA_VALIDATION_ERROR", "message": "Schema validation failed", "problems": {"tx": ["Missing data for re46B1665DD6C894910736BEDD585C6B7,”amount":"241535140800","type":"DEPOSIT"}}' https://perpetual-playground-v2.starkex.co/add_tran
+action; echo
+{"code": "StarkErrorCode.SCHEMA_VALIDATION_ERROR", "message": "Schema validation failed", "problems": {"tx": ["Missing data for required field."], "tx_id": ["Missing data for required field."], "tx_id\u201d:167\u201dtx": ["Unknown field."]}}
+root@fdce9971a8ca:/app#
+root@fdce9971a8ca:/app#
+root@fdce9971a8ca:/app#
+root@fdce9971a8ca:/app#
+root@fdce9971a8ca:/app#
+root@fdce9971a8ca:/app# clear
+root@fdce9971a8ca:/app# curl -d '{"tx_id":167,"tx":{"position_id":"3","public_key":"0x7D66CCC1D55BFADDC20BEDAF6213752E46B1665DD6C894910736BEDD585C6B7","amount":"241535140800","type":"DEPOSIT"}}' https://perpetual-playground-v2.starkex.co/add_transaction; echo
+{"code": "StarkErrorCode.SCHEMA_VALIDATION_ERROR", "message": "Schema validation failed", "problems": {"tx": {"public_key": ["Expected hex string, got: \"0x7D66CCC1D55BFADDC20BEDAF6213752E46B1665DD6C894910736BEDD585C6B7\"."]}}}
+root@fdce9971a8ca:/app# curl -d '{"tx_id":167,"tx":{"position_id":"3","public_key":0x7D66CCC1D55BFADDC20BEDAF6213752E46B1665DD6C894910736BEDD585C6B7,"amount":"241535140800","type":"DEPOSIT"}}' https://perpetual-playground-v2.starkex.co/add_transaction; echo
+{"code": "StarkErrorCode.SCHEMA_VALIDATION_ERROR", "message": "Schema validation failed", "problems": "Expecting ',' delimiter: line 1 column 52 (char 51)"}
+root@fdce9971a8ca:/app# curl -d '{"tx_id":167,"tx":{"position_id":3,"public_key":0x7D66CCC1D55BFADDC20BEDAF6213752E46B1665DD6C894910736BEDD585C6B7,"amount":"241535140800","type":"DEPOSIT"}}' https://perpetual-playground-v2.starkex.co/add_transaction; echo
+{"code": "StarkErrorCode.SCHEMA_VALIDATION_ERROR", "message": "Schema validation failed", "problems": "Expecting ',' delimiter: line 1 column 50 (char 49)"}
+root@fdce9971a8ca:/app# curl -d '{"tx_id":167,"tx":{"position_id":"3",public_key":0x7D66CCC1D55BFADDC20BEDAF6213752E46B1665DD6C894910736BEDD585C6B7,"amount":"241535140800","type":"DEPOSIT"}}' https://perpetual-playground-v2.starkex.co/add_transaction; echo
+{"code": "StarkErrorCode.SCHEMA_VALIDATION_ERROR", "message": "Schema validation failed", "problems": "Expecting property name enclosed in double quotes: line 1 column 38 (char 37)"}
+root@fdce9971a8ca:/app# curl -d '{"tx_id":167,"tx":{"position_id":"3","public_key":0x7D66CCC1D55BFADDC20BEDAF6213752E46B1665DD6C894910736BEDD585C6B7,"amount":"241535140800","type":"DEPOSIT"}}' https://perpetual-playground-v2.starkex.co/add_transaction; echo
+{"code": "StarkErrorCode.SCHEMA_VALIDATION_ERROR", "message": "Schema validation failed", "problems": "Expecting ',' delimiter: line 1 column 52 (char 51)"}
+root@fdce9971a8ca:/app# curl -d '{"tx_id":167,"tx":{"position_id":"3","public_key":0x7D66CCC1D55BFADDC20BEDAF6213752E46B1665DD6C894910736BEDD585C6B7,"amount":"241535140800","type":"DEPOSIT"}}' https://perpetual-playground-v2.starkex.co/add_transaction; echo
+{"code": "StarkErrorCode.SCHEMA_VALIDATION_ERROR", "message": "Schema validation failed", "problems": "Expecting ',' delimiter: line 1 column 52 (char 51)"}
+6B1665DD6C894910736BEDD585C6B7,","amount":"241535140800","type":"DEPOSIT"}}' https://perpetual-playground-v2.starkex.co/add_transaction; echo
+{"code": "StarkErrorCode.SCHEMA_VALIDATION_ERROR", "message": "Schema validation failed", "problems": {"tx": ["Missing data for reroot@fdce9971a8ca:/app# curl -d '{"tx_id”:167”tx":{"position_id”:”3”,”public_key":"0x7D66CCC1D55BFADDC20BEDAF6213752E
+6B1665DD6C894910736BEDD585C6B7,","amount":"241535140800","type":"DEPOSIT"}}' https://perpetual-playground-v2.starkex.co/add_transaction; echo
+
+{"code": "StarkErrorCode.SCHEMA_VALIDATION_ERROR", "message": "Schema validation failed", "problems": {"tx": ["Missing data for required field."], "tx_id": ["Missing data for required field."], "tx_id\u201d:167\u201dtx": ["Unknown field."]}}
+root@fdce9971a8ca:/app#
+root@fdce9971a8ca:/app#
+root@fdce9971a8ca:/app#
+root@fdce9971a8ca:/app#                                                                                        oot@fdce9971a8ca:/app# curl -d '{"tx_id”:167”tx":{"p{"tx_id”:167sition_id”:”3”,”public_key":"0x7D66CCC1D55BFADDC20BEDAF6213752E46B1665DD6C894910736BEDD585C6B7,","amount":"241535140800","type":"DEPOSIT"}}' https://perpetual-playground-v2.starkex.co/add_transactrkex.co/add_transa
+ction; echo
+{"code": "StarkErrorCode.SCHEMA_VALIDATION_ERROR", "message": "Schema validation failed", "problems": {"tx": ["Missing data for required field."], "tx_id": ["Missing data for required field."], "tx_id\u201d:167\u201dtx": ["Unknown field."]}}
+root@fdce9971a8ca:/app#
+root@fdce9971a8ca:/app#
+root@fdce9971a8ca:/app#
+52E46B1665DD6C894910736BEDD585C6B7,","amount":"241535140800","type":"DEPOSIT"}}' https://perpetual-playground-v2.starkex.co/add_trroot@fdce9971a8ca:/app# curl -d '{"tx_id”:167”,tx":{"position_id”:”3”,”public_key":"0x7D66CCC1D55BFADDC20BEDAF6213752E
+46B1665DD6C894910736BEDD585C6B7,","amount":"241535140800","type":"DEPOSIT"}}' https://perpetual-playground-v2.starkex.co/add_transaction; echo
+
+c{"code": "StarkErrorCode.SCHEMA_VALIDATION_ERROR", "message": "Schema validation failed", "problems": {"tx": ["Missing data for required field."], "tx_id": ["Missing data for required field."], "tx_id\u201d:167\u201d,tx": ["Unknown field."]}}
+root@fdce9971a8ca:/app#
+root@fdce9971a8ca:/app# clear
+BEDAF6213752E46B1665DD6C894910736BEDD585C6B7,","amount":"241535140800","type":"DEPOSIT"}}' https://perpetual-playgrou
+
+971a8ca:/app# curl -d '{"tx_id”:167”,tx":{"position_id”:”3”,�eyroot@fdce997x.co/add_transa
+
+pp# curl -d '{"tx_id”:167”,tx":{"position_id”:”3”,�
+
+mount":"241535140800","type":"DEPOSIT"}}' https://perpetual-playground-v2.starkex.co/
+root@fdce9971a8ca:/app#
+root@fdce9971a8ca:/app#
+root@fdce9971a8ca:/app#
+root@fdce9971a8ca:/app#
+46B1665DD6C894910736BEDD585C6B7,","amount":"241535140800","type":"DEPOSIT"}}' https://perpetual-playground-v2.starkex.co/add_transaction; echo
+{"code": "StarkErrorCode.SCHEMA_VALIDATION_ERROR", "message": "Schema validation failed", "problems": {"tx": ["Mot@fdce9971a8ca:/app# curl -d '{"tx_id”:167”,tx"" '{"tx_id”:":{"position_id”:”3”,”public_key":"0x7D66CCC1D55BFADDC20BEDAF6213752E46B1665DD6C894910736BEDD585C6B7,","amount":"241535140800","type":"DEPOSIT"}}' https://perpetual-playground-v2.starkex.co/add_transatarkex.co/add_tranaction; echo
+
+{"code": "StarkErrorCode.SCHEMA_VALIDATION_ERROR", "message": "Schema validation failed", "problems": "Expecting ':' delimiter: line 1 column 18 (char 17)"}
+root@fdce9971a8ca:/app#
+52E46B1665DD6C894910736BEDD585C6B7,","amount":"241535140800","type":"DEPOSIT"}}' https://perpetual-playground-v2.starkex.co/add_transaction; echo
+{"code": "StarkErrorCode.SCHEMA_VALIDATION_ERROR", "message": "Schema validation failed", "problems": {"tx": ["Missing data for reroot@fdce9971a8ca:/app# curl -d '{"tx_id”:”167”,tx":{"position_id”:”3”,”public_key":"0x7D66CCC1D55BFADDC20BEDAF6213]}}
+52E46B1665DD6C894910736BEDD585C6B7,","amount":"241535140800","type":"DEPOSIT"}}' https://perpetual-playground-v2.starkex.co/add_transaction; echo
+{"code": "StarkErrorCode.SCHEMA_VALIDATION_ERROR", "message": "Schema validation failed", "problems": {"tx": ["Missing data for required field."], "tx_id": ["Missing data for required field."], "tx_id\u201d:\u201d167\u201d,tx": ["Unknown field."]}}
+root@fdce9971a8ca:/app#
+root@fdce9971a8ca:/app#
+root@fdce9971a8ca:/app#
+root@fdce9971a8ca:/app# cls
+bash: cls: command not found
+root@fdce9971a8ca:/app# clear
+root@fdce9971a8ca:/app# curl https://perpetual-playground-v2.starkex.co/get_first_unused_tx_id; echo
+167
+root@fdce9971a8ca:/app# curl -d '{"tx_id":167,"tx":{"position_id":"3","public_key":"0x7D66CCC1D55BFADDC20BEDAF6213752E46B1665DD6C894910736BEDD585C6B","amount":"241535140800","type":"DEPOSIT"}}' https://perpetual-playground-v2.starkex.co/add_transaction; echo
+{"code": "StarkErrorCode.SCHEMA_VALIDATION_ERROR", "message": "Schema validation failed", "problems": {"tx": {"public_key": ["Expected hex string, got: \"0x7D66CCC1D55BFADDC20BEDAF6213752E46B1665DD6C894910736BEDD585C6B\"."]}}}
+root@fdce9971a8ca:/app# curl -d '{"tx_id":167,"tx":{"position_id":"3","public_key":0x7D66CCC1D55BFADDC20BEDAF6213752E46B1665DD6C894910736BEDD585C6B,"amount":"241535140800","type":"DEPOSIT"}}' https://perpetual-playground-v2.starkex.co/add_transaction; echo
+{"code": "StarkErrorCode.SCHEMA_VALIDATION_ERROR", "message": "Schema validation failed", "problems": "Expecting ',' delimiter: line 1 column 52 (char 51)"}
+root@fdce9971a8ca:/app# curl -d '{"tx_id":167,"tx":{"position_id":"3","public_key":0x3545046103469343891497464286250124515800040657540057437396902255536919398071,"amount":"241535140800","type":"DEPOSIT"}}' https://perpetual-playground-v2.starkex.co/add_transaction; echo
+{"code": "StarkErrorCode.SCHEMA_VALIDATION_ERROR", "message": "Schema validation failed", "problems": "Expecting ',' delimiter: line 1 column 52 (char 51)"}
+root@fdce9971a8ca:/app# curl -d '{"tx_id":167,"tx":{"position_id":"3","public_key":"0x3545046103469343891497464286250124515800040657540057437396902255536919398071","amount":"241535140800","type":"DEPOSIT"}}' https://perpetual-playground-v2.starkex.co/add_transaction; echo
+{"code": "StarkErrorCode.OUT_OF_RANGE_PUBLIC_KEY", "message": "Public key 0x3545046103469343891497464286250124515800040657540057437396902255536919398071 is out of range"}
+root@fdce9971a8ca:/app# curl -d '{"tx_id":167,"tx":{"position_id":"3","public_key":0x3545046103469343891497464286250124515800040657540057437396902255536919398071,"amount":"241535140800","type":"DEPOSIT"}}' https://perpetual-playground-v2.starkex.co/add_transaction; echo
+{"code": "StarkErrorCode.SCHEMA_VALIDATION_ERROR", "message": "Schema validation failed", "problems": "Expecting ',' delimiter: line 1 column 52 (char 51)"}
+root@fdce9971a8ca:/app# curl -d '{"tx_id":167,"tx":{"position_id":"3","public_key":"0x7D66CCC1D55BFADDC20BEDAF6213752E46B1665DD6C894910736BEDD585C6B7","amount":"241535140800","type":"DEPOSIT"}}' https://perpetual-playground-v2.starkex.co/add_transaction; echo
+{"code": "StarkErrorCode.SCHEMA_VALIDATION_ERROR", "message": "Schema validation failed", "problems": {"tx": {"public_key": ["Expected hex string, got: \"0x7D66CCC1D55BFADDC20BEDAF6213752E46B1665DD6C894910736BEDD585C6B7\"."]}}}
+root@fdce9971a8ca:/app# curl -d '{"tx_id":167,"tx":{"position_id":"3","public_key":"7D66CCC1D55BFADDC20BEDAF6213752E46B1665DD6C894910736BEDD585C6B7","amount":"241535140800","type":"DEPOSIT"}}' https://perpetual-playground-v2.starkex.co/add_transaction; echo
+{"code": "StarkErrorCode.SCHEMA_VALIDATION_ERROR", "message": "Schema validation failed", "problems": {"tx": {"public_key": ["Expected hex string, got: \"7D66CCC1D55BFADDC20BEDAF6213752E46B1665DD6C894910736BEDD585C6B7\"."]}}}
+root@fdce9971a8ca:/app# curl -d '{"tx_id":167,"tx":{"position_id":"3","public_key":7D66CCC1D55BFADDC20BEDAF6213752E46B1665DD6C894910736BEDD585C6B7,"amount":"241535140800","type":"DEPOSIT"}}' https://perpetual-playground-v2.starkex.co/add_transaction; echo
+{"code": "StarkErrorCode.SCHEMA_VALIDATION_ERROR", "message": "Schema validation failed", "problems": "Expecting ',' delimiter: line 1 column 52 (char 51)"}
+root@fdce9971a8ca:/app# curl -d '{"tx_id":167,"tx":{"position_id":"3","public_key":0x7D66CCC1D55BFADDC20BEDAF6213752E46B1665DD6C894910736BEDD585C6B7,"amount":"241535140800","type":"DEPOSIT"}}' https://perpetual-playground-v2.starkex.co/add_transaction; echo
+{"code": "StarkErrorCode.SCHEMA_VALIDATION_ERROR", "message": "Schema validation failed", "problems": "Expecting ',' delimiter: line 1 column 52 (char 51)"}
+root@fdce9971a8ca:/app# curl -d '{"tx_id":167,"tx":{"position_id":"3","public_key":"0x7D66CCC1D55BFADDC20BEDAF6213752E46B1665DD6C894910736BEDD585C6B7","amount":"241535140800","type":"DEPOSIT"}}' https://perpetual-playground-v2.starkex.co/add_transaction; echo
+{"code": "StarkErrorCode.SCHEMA_VALIDATION_ERROR", "message": "Schema validation failed", "problems": {"tx": {"public_key": ["Expected hex string, got: \"0x7D66CCC1D55BFADDC20BEDAF6213752E46B1665DD6C894910736BEDD585C6B7\"."]}}}
+root@fdce9971a8ca:/app# curl -d '{"tx_id":167,"tx":{"position_id":"3","public_key":"0x7d66ccc1d55bfaddc20bedaf6213752e46b1665dd6c894910736bedd585c6b7","amount":"241535140800","type":"DEPOSIT"}}' https://perpetual-playground-v2.starkex.co/add_transaction; echo
+{"code": "TRANSACTION_RECEIVED"}
+root@fdce9971a8ca:/app# curl https://perpetual-playground-v2.starkex.co/feeder_gateway/get_last_batch_id; echo
+51
+root@fdce9971a8ca:/app# curl https://perpetual-playground-v2.starkex.co/feeder_gateway/get_batch_info?batch_id=51; echo
+{"previous_batch_id": 50, "order_root": "067f0c95600b506342894ece93365fee547e67b7a897c778d9fbf70c98a5c3c6", "sequence_number": 45, "position_root": "06d7ab50d7cd202ebdde8a42130ea1b7c107b4f6507ef1a202a6c2217232c544", "previous_order_root": "007b2afbf63e161b2555eed3241827a93b4c57defe926229633c9a0dab4659f7", "txs_info": [{"was_replaced": false, "original_tx_id": 164, "original_tx": {"public_key": "0x68170519d8e3ec0ba2efe113e7853093cbaafa27a995ae2c1ee2ca7628c79f0", "signature": {"r": "0x230fcb960310f880e7a33f4dafe620fe06e13f8b5396b0e29687e7dbed4bbdd", "s": "0x660b9ca29151d92d0ce8b7a1f5a39373f633750e78a36d2c9184fed8920692c"}, "nonce": "2195908195", "expiration_timestamp": "1677951114", "position_id": "898988", "amount": "1234567890", "eth_address": "0xf0f151De6915bbfB7cce2cCF57197740dc9Cf97f", "type": "WITHDRAWAL_TO_ADDRESS"}, "alt_txs": null}], "time_created": "1677865263", "previous_position_root": "01c0f0ef036ee81cd4c2ad6193222116ab081366d936f057c7f6e1753109b9d2"}
+root@fdce9971a8ca:/app# curl https://perpetual-playground-v2.starkex.co/feeder_gateway/get_batch_info?batch_id=51; echo
+{"previous_batch_id": 50, "order_root": "067f0c95600b506342894ece93365fee547e67b7a897c778d9fbf70c98a5c3c6", "sequence_number": 45, "position_root": "06d7ab50d7cd202ebdde8a42130ea1b7c107b4f6507ef1a202a6c2217232c544", "previous_order_root": "007b2afbf63e161b2555eed3241827a93b4c57defe926229633c9a0dab4659f7", "txs_info": [{"was_replaced": false, "original_tx_id": 164, "original_tx": {"public_key": "0x68170519d8e3ec0ba2efe113e7853093cbaafa27a995ae2c1ee2ca7628c79f0", "signature": {"r": "0x230fcb960310f880e7a33f4dafe620fe06e13f8b5396b0e29687e7dbed4bbdd", "s": "0x660b9ca29151d92d0ce8b7a1f5a39373f633750e78a36d2c9184fed8920692c"}, "nonce": "2195908195", "expiration_timestamp": "1677951114", "position_id": "898988", "amount": "1234567890", "eth_address": "0xf0f151De6915bbfB7cce2cCF57197740dc9Cf97f", "type": "WITHDRAWAL_TO_ADDRESS"}, "alt_txs": null}], "time_created": "1677865263", "previous_position_root": "01c0f0ef036ee81cd4c2ad6193222116ab081366d936f057c7f6e1753109b9d2"}
+972a1974bf5971f","expiration_timestamp":"20000000","nonce":"0","receiver_position_id":"4","receiver_public_key":"0x63f62982fa598ad7207218943961743802667126218259376735833498015466","signature":{"r":"0x589a7865d8c715146dc0fba34f868e7d93c49daa9e308956ad2f180546d8f6","s":"0x63370d5c708c00b66e3a2d6d6329e9df2a4c82ac92f57349d212eb98de7b602"}, "type":"TRANSFER"}}' https://perpetual-playground-v2.starkex.co/add_transaction; echo
+{"code": "StarkErrorCode.SCHEMA_VALIDATION_ERROR", "message": "Schema validation failed", "problems": {"tx": ["Missing data for required field."], "tx_id": ["Missing data for required field."], "tx_id\u201d:200,\u201dtx": ["Unknown field."]}}
+972a1974bf5971f","expiration_timestamp":"20000000","nonce":"0","receiver_position_id":"4","receiver_public_key":"0x63f62982fa598ad7207218943961743802667126218259376735833498015466","signature":{"r":"0x589a7865d8c715146dc0fba34f868e7d93c49daa9e308956ad2f180546d8f6","s":"0x63370d5c708c00b66e3a2d6d6329e9df2a4c82ac92f57349d212eb98de7b602"}, "type":"TRANSFER"}}' https://perpetual-playground-v2.starkex.co/add_transaction; echo
+{"code": "StarkErrorCode.SCHEMA_VALIDATION_ERROR", "message": "Schema validation failed", "problems": {"tx": ["Missing data for required field."], "tx_id": ["Missing data for required field."], "tx_id\u201d:200,\u201dtx": ["Unknown field."]}}
+root@fdce9971a8ca:/app#
+root@fdce9971a8ca:/app# clear
+root@fdce9971a8ca:/app#
+root@fdce9971a8ca:/app#
+root@fdce9971a8ca:/app#  curl -d '{"tx_id":tx_id,"tx":{"amount":"3","asset_id":"0xa21edc9d9997b1b1956f542fe95922518a9e28ace11b7b2972a1974bf5971f","expiration_timestamp":"20000000","nonce":"0","receiver_position_id":"4","receiver_public_key":"0x63f62982fa598ad7c4e469870b3a1c23316ba8fb717aa2b1ee3114283fb1b82","sender_position_id":"3","sender_public_key":"729444128562970529772220197207218943961743802667126218259376735833498015466","signature":{"r":"0x589a7865d8c715146dc0fba34f868e7d93c49daa9e308956ad2f180546d8f6","s":"0x63370d5c708c00b66e3a2d6d6329e9df2a4c82ac92f57349d212eb98de7b602"}, "type":"TRANSFER"}}' https://perpetual-playground-v2.starkex.co/add_transaction; echo
+{"code": "StarkErrorCode.SCHEMA_VALIDATION_ERROR", "message": "Schema validation failed", "problems": "Expecting value: line 1 col972a1974bf5971f","expiration_timestamp":"20000000","nonce":"0","receiver_position_id":"4","receiver_public_key":"0x63f62982fa598a
+7c4e469870b3a1c23316ba8fb717aa2b1ee3114283fb1b82","sender_position_id”:”3”,”sender_public_key":"729444128562970529772220182fa598ad7207218943961743802667126218259376735833498015466","signature":{"r":"0x589a7865d8c715146dc0fba34f868e7d93c49daa9e308956ad2f180546d8f6","s":"0x63370d5c708c00b66e3a2d6d6329e9df2a4c82ac92f57349d212eb98de7b602"}, "type":"TRANSFER"}}' https://perpetual-playground-v2.starkex.co/add_transaction; echo
+
+root@fdce9971a8ca:/app# 729444128562970529772220197207218943961743802667126218259376735833498015466
+bash: 729444128562970529772220197207218943961743802667126218259376735833498015466: command not found
+root@fdce9971a8ca:/app# curl -d '{"tx_id":170,"tx":{"amount":"3","asset_id":"0xa21edc9d9997b1b1956f542fe95922518a9e28ace11b7b2972a1974bf5971f","expiration_timestamp":"20000000","nonce":"0","receiver_position_id":"4","receiver_public_key":"0x63f62982fa598ad7c4e469870b3a1c23316ba8fb717aa2b1ee3114283fb1b82","sender_position_id":"3","sender_public_key":"729444128562970529772220197207218943961743802667126218259376735833498015466","signature":{"r":"0x589a7865d8c715146dc0fba34f868e7d93c49daa9e308956ad2f180546d8f6","s":"0x63370d5c708c00b66e3a2d6d6329e9df2a4c82ac92f57349d212eb98de7b602"}, "type":"TRANSFER"}}' https://perpetual-playground-v2.starkex.co/add_transaction; echo
+{"code": "StarkErrorCode.SCHEMA_VALIDATION_ERROR", "message": "Schema validation failed", "problems": {"tx": {"sender_public_key": ["Expected hex string, got: \"729444128562970529772220197207218943961743802667126218259376735833498015466\"."]}}}
+root@fdce9971a8ca:/app# curl -d '{"tx_id":170,"tx":{"amount":"3","asset_id":"0xa21edc9d9997b1b1956f542fe95922518a9e28ace11b7b2972a1974bf5971f","expiration_timestamp":"20000000","nonce":"0","receiver_position_id":"4","receiver_public_key":"0x63f62982fa598ad7c4e469870b3a1c23316ba8fb717aa2b1ee3114283fb1b82","sender_position_id":"3","sender_public_key":"0x19cd9ca7b84333e172b261a17fec98eb612870995555906b5f31398be3b56ea","signature":{"r":"0x589a7865d8c715146dc0fba34f868e7d93c49daa9e308956ad2f180546d8f6","s":"0x63370d5c708c00b66e3a2d6d6329e9df2a4c82ac92f57349d212eb98de7b602"}, "type":"TRANSFER"}}' https://perpetual-playground-v2.starkex.co/add_transaction; echo
+{"code": "TRANSACTION_RECEIVED"}
+root@fdce9971a8ca:/app#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
